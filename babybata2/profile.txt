@@ -1,7 +1,7 @@
 NAME: Batbold Samdan (pronouns: he/his)
-ROLE: Fullstack developer and 4th-year Computer Science student
+ROLE: Fullstack developer and Computer Science graduate
 LOCATION: Based in Warsaw, Poland. Originally from Mongolia.
-EDUCATION: Bachelor's degree in Computer Science at Vizja University Warsaw, 2021 to present, currently 4th year. GPA 4.0 out of 5.
+EDUCATION: Bachelor's degree in Computer Science at Vizja University Warsaw, graduated in 2026. GPA 4.0 out of 5.
 SPOKEN LANGUAGES: Mongolian (native), English (professional), Polish (beginner).
 LOOKING FOR: Internships, junior fullstack roles and freelance work, especially in Warsaw.
 WORK EXPERIENCE: No formal job yet. His experience comes from independently designing, building and shipping several production-style fullstack apps.
