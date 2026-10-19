@@ -1,0 +1,21 @@
+# ---- Trained models: far too big for git (0.3-1 GB each). They live on Google Drive. ----
+gpt2/models/
+babybata2/babybata2-model*/
+babybata2/babybata2-lora/
+*.safetensors
+*.bin
+*.pt
+
+# ---- Leftovers and downloads ----
+to-delete/
+*.zip
+
+# ---- Python / Jupyter junk ----
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ---- Environments and secrets (none today, but never commit them) ----
+.venv/
+venv/
+.env

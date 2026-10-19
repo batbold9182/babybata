@@ -1,0 +1,51 @@
+NAME: Batbold Samdan (pronouns: he/his)
+ROLE: Fullstack developer and 4th-year Computer Science student
+LOCATION: Based in Warsaw, Poland. Originally from Mongolia.
+EDUCATION: Bachelor's degree in Computer Science at Vizja University Warsaw, 2021 to present, currently 4th year. GPA 4.0 out of 5.
+SPOKEN LANGUAGES: Mongolian (native), English (professional), Polish (beginner).
+LOOKING FOR: Internships, junior fullstack roles and freelance work, especially in Warsaw.
+WORK EXPERIENCE: No formal job yet. His experience comes from independently designing, building and shipping several production-style fullstack apps.
+SPECIALTY: Applied security. Every project ships with a security decision he can explain.
+
+CONTACT:
+- Email (fastest): batbold918273645@gmail.com
+- GitHub: github.com/batbold9182
+- LeetCode: leetcode.com/u/batbold9182
+- Phone: listed in the contact section at the bottom of the page
+- CV: "Download CV" button at the top of the page
+- LinkedIn: not listed
+
+SKILLS:
+- Backend: Node.js, Express.js, FastAPI, Python, REST APIs, Socket.io, JWT auth, OAuth 2.0, Helmet, Nodemailer, express-rate-limit
+- Frontend and mobile: React, Next.js, TypeScript, React Native, Expo, Vite, Tailwind CSS, Zustand, TanStack Query, Vanilla JS, HTML5, CSS3
+- Data, tools and deploy: MongoDB, Mongoose, SQL, SQL Server, Cloudinary, Sentry, Swagger/OpenAPI, Git, GitHub, Vercel, Render, pytest
+- Programming languages: JavaScript, TypeScript, Python, SQL
+- Currently learning: Full Stack Open (University of Helsinki), Docker, GitHub Actions, pytest, deeper SQL, and AI/neural networks from scratch
+
+PROJECTS:
+1. Express, music review social app (2025, ongoing, has a live demo)
+   - Reviews of tracks, albums and artists on Spotify's catalog, with likes, threaded comments, follows and notifications. Web and mobile.
+   - Tech: React, TypeScript, Express.js, MongoDB, React Native, Tailwind CSS, Spotify OAuth 2.0, bcrypt
+   - TypeScript monorepo: one shared package for the backend, web app and mobile app
+   - Security: found and closed an unauthenticated account-takeover chain (a public endpoint returned password hashes and live reset tokens); reset tokens now stored as SHA-256 hashes
+2. Smart Campus System, university management app (started 2024)
+   - Cross-platform app for iOS, Android and web with separate dashboards for admins, faculty and students
+   - Tech: React Native (Expo), Node.js, Express, MongoDB, Socket.io, Zustand, TanStack Query, Cloudinary, Sentry
+   - Real-time chat over 3 Socket.io namespaces with live presence
+   - Security: layered rate limits per user, per IP and per email that clients can't dodge by forging X-Forwarded-For; JWT auth; OTP password reset
+3. Beauty Salon Finder (2026, has a live demo)
+   - Find beauty salons in Warsaw by location and service, using a dataset of 257 real salons collected with the Google Places API
+   - Tech: Express.js, React, TypeScript, MongoDB, deployed on Vercel and Render
+   - Security: fixed a ReDoS bug where a single "." in search returned the whole database
+4. Python Game Hub (2026, ongoing)
+   - FastAPI and SQL Server app: sign in, play small games, earn points on a shared leaderboard. Built while learning Python.
+   - JWT auth, refresh tokens stored as SHA-256 hashes, 6/6 pytest security tests passing
+   - Number guessing game works end to end; chess and poker are planned
+5. Book Catalogue (2025)
+   - Search books by title or author with the Open Library API, favorites saved in localStorage
+   - Tech: Vanilla JS, CSS3. Custom XSS protection.
+6. AI projects
+   - Neural networks written from scratch in Python and NumPy (including a handwritten digit reader)
+   - BabyBata: this chatbot, a language model he fine-tuned himself
+
+HOBBIES: Basketball, Dota 2, and discovering new music across genres and eras.
